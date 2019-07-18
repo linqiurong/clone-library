@@ -1,0 +1,18 @@
+{
+    "name": "clonelin/library",
+    "authors": [
+        {
+            "name": "clone",
+            "email": "bjbs08@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "clonelin\\library\\": "src/",
+            "clonelin\\library\\library\\": "library/"
+        },
+        "files": []
+    }
+}
