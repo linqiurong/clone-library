@@ -5,7 +5,7 @@ namespace clonelin\library;
  * Class String
  * @package clonelin\library
  */
-class String {
+class Strings {
     // 隐藏身份证号
     public static function hiddenIDCard($idCardNumber){
         // 证件号长度
